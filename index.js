@@ -19,7 +19,7 @@ class Driver{
 }
 
 
-class PickUpLocation{
+class PickupLocation{
   constructor(address, city){
     this.address = address;
     this.city = city;
